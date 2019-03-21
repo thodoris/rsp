@@ -12,11 +12,10 @@ Python 3
 OpenCV
 
 ```
-Run
-```
 python rsp.py
+```
 
-
+(gifs.com/gif/rsp-5QQ0nX)
 
 
 
